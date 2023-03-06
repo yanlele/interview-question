@@ -1,5 +1,8 @@
 # 面试题库
 
+代码仓库迁移， issue 也已经迁移：https://github.com/pro-collection/interview-question
+
+
 想做一个很全的面试题库工程
 
 1. 需要去全网收集面试题               
